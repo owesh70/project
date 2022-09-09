@@ -24,4 +24,4 @@ $dbname = "alpha";
 
 
  $conn = null;
- header("location: listing.php");
+ header("location: index.php");
